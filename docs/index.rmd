@@ -495,7 +495,7 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 ```
 * It is not surprising to see that if users want to burn more calories, they need to exercise to achieve a higher heart rate.
-* From the chart, generally if the users need to burn 10 calories in a minute, on average they need to perform exercises which can keep the heart rate at around 145 for 1 minute.
+* From the chart, generally if the users need to burn 10 calories in a minute, on average they need to perform exercises which can keep the heart rate at around 130 for 1 minute.
 <br>
 
 ## 4.4 Time dimension
