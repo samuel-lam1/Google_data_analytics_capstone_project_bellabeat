@@ -4,7 +4,6 @@
   from smart devices in order to provide recommendations for Bellabeat's (a company that 
   manufactures health-focused smart products for women) marketing strategy to help reveal 
   opportunities for the company's growth. </li>
-  <br>
   <li>Microsoft Excel, SQL on Google BigQuery and Tableau are used.</li>
   <li>
     <a href="https://www.kaggle.com/code/samsam4521/google-data-analytics-capstone-project-bellabeat">View on Kaggle</a>
